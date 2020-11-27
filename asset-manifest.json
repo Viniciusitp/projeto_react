@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62ad0fce.chunk.css",
+    "main.js": "/static/js/main.3e8e3c5d.chunk.js",
+    "main.js.map": "/static/js/main.3e8e3c5d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9ff836b4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9ff836b4.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b6171724.chunk.js": "/static/js/2.b6171724.chunk.js",
+    "static/js/2.b6171724.chunk.js.map": "/static/js/2.b6171724.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.62ad0fce.chunk.css.map": "/static/css/main.62ad0fce.chunk.css.map",
+    "static/js/2.b6171724.chunk.js.LICENSE.txt": "/static/js/2.b6171724.chunk.js.LICENSE.txt",
+    "static/media/Googledrive.27e01b79.png": "/static/media/Googledrive.27e01b79.png",
+    "static/media/edmodo.9e40de4c.png": "/static/media/edmodo.9e40de4c.png",
+    "static/media/meet.90e001f7.png": "/static/media/meet.90e001f7.png",
+    "static/media/zoom.33366e6b.png": "/static/media/zoom.33366e6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ff836b4.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b6171724.chunk.js",
+    "static/css/main.62ad0fce.chunk.css",
+    "static/js/main.3e8e3c5d.chunk.js"
+  ]
+}
