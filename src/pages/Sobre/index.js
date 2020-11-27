@@ -18,8 +18,7 @@ function Sobre(){
         </Row>
 
         <Row>
-            <Col sm="12" md={{ size: 12, offset: 1 }}><h3>Alunos do 6 período de Sistemas de Informação da UniRedentor</h3>
-            </Col>
+            <Col sm="12" md={{ size: 12, offset: 1 }}><h3>Alunos do 6 período de Sistemas de Informação da UniRedentor</h3></Col>
         </Row>
       </Container>
 
